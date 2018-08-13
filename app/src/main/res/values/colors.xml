@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- Estados de citas medicas -->
+    <color name="cancelledStatus">#e57373</color>
+    <color name="activeStatus">#64B5F6</color>
+    <color name="completedStatus">#81C784</color>
+</resources>

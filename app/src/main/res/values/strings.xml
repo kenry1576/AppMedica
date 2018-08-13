@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">CitaPrevia</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">Cita Previa</string>
+
+    <string name="prompt_user">Usuario</string>
+    <string name="prompt_password">Clave</string>
+    <string name="action_sign_in">Ingresar</string>
+    <string name="action_sign_in_short">Ingresar</string>
+    <string name="error_invalid_email">Este usuario es invalido</string>
+    <string name="error_invalid_password">Esta clave es muy corta</string>
+    <string name="error_incorrect_password">Esta clave es incorrecta</string>
+    <string name="error_field_required">Este campo es requerido</string>
+    <string name="permission_rationale">"Permisos son requeridos."</string>
+    <string name="error_server">Error en el servidor</string>
+    <string name="error_incorrect_user_id">Número de identificación no registrado</string>
+    <string name="error_network">Conexión de red no disponible</string>
+
+    <string name="title_activity_add_appointment">Asignar Cita</string>
+    <string name="label_medical_center">Seleccione un centro médico</string>
+    <string name="label_date">Seleccione una fecha</string>
+    <string name="label_time_schedule">Seleccione una jornada laboral</string>
+    <string name="message_appointment_succesfully_saved">La cita se asignó correctamente</string>
+    <string name="action_save_appointment">Guardar</string>
+    <string name="action_select_doctor">Buscar doctor</string>
+    <string name="error_empty_doctor">Seleccione el turno de algún doctor disponible</string>
+
+    <string-array name="entries_time_schedule">
+        <item>Mañana</item>
+        <item>Tarde</item>
+    </string-array>
+    <string name="title_activity_doctors_schedules">Elige Tu Doctor</string>
+    <string name="message_no_schedules">No se encontraron horarios disponibles</string>
+    <string name="label_availability">Disponibilidad</string>
+    <string name="request_button">Solicitar</string>
+    <string name="message_no_doctor_schedule_picked">Reserva un doctor para tu cita</string>
+    <string name="title_activity_doctor_schedules">Elige Tu Doctor</string>
+    <string name="title_activity_add_issue">Radicar PQRS</string>
+    <string name="todo1">TODO</string>
+    <string name="no_hay_citas_m_dicas">No hay citas médicas</string>
+    <string name="todo">TODO</string>
+    <string name="title_activity_cita_previa">Cita Previa</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_activity_ars">ARS</string>
+    <string name="title_activity_maps">Mapa Centros Hospitales</string>
+
+
+</resources>
